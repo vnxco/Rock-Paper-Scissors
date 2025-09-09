@@ -5,10 +5,10 @@ Dieses Projekt ist ideal für Anfänger, um den Umgang mit Benutzereingaben, Zuf
 
 🚀 Features
 
-✊ Rock schlägt Scissors
-✋ Paper schlägt Rock
-✌️ Scissors schlägt Paper
-⚖️ Unentschieden möglich
-🎲 Der Computer wählt zufällig
-🔁 Mehrere Runden spielbar in einer Schleife
-⚠️ Fehlerbehandlung bei ungültigen Eingaben
+- ✊ Rock schlägt Scissors
+- ✋ Paper schlägt Rock
+- ✌️ Scissors schlägt Paper
+- ⚖️ Unentschieden möglich
+- 🎲 Der Computer wählt zufällig
+- 🔁 Mehrere Runden spielbar in einer Schleife
+- ⚠️ Fehlerbehandlung bei ungültigen Eingaben
